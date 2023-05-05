@@ -37,5 +37,5 @@ This project was implemented using the R programming language, assuming that you
 
 The data is in the file :
 
-### taxi.csv :                                                                                                                                                                        
-###
+**taxi.csv**                                                                                                                                                                     
+**manhattan.rds**
