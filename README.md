@@ -33,7 +33,7 @@ This project involves predicting the fares of New York taxi rides trees and rand
 # Good to know
 This project was implemented using the R programming language, assuming that you have used the **dplyr** and **ggplot2** packages.
 
-#Data :
+# Data :
 
 The data is in the file :
 
